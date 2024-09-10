@@ -1,7 +1,6 @@
 import speech_recognition as sr 
 import pyttsx3
 import webbrowser
-import openai
 from hugchat import hugchat
 
 def say(text):
