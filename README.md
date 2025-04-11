@@ -1,4 +1,3 @@
-# Desktop-Assistant
 # 💻🧠 AI Desktop Assistant with ChatGPT Integration
 
 Welcome to your **Personal AI Desktop Assistant**, built using **Python** and powered by **OpenAI's ChatGPT API** & **LLMs**! This project brings the power of conversational AI to your local machine — enabling intelligent interactions, productivity tools, and voice-based command execution, right from your desktop.
@@ -41,9 +40,4 @@ Don't feel like listening to long AI lectures? You can stop the assistant anytim
 
 ---
 
-## 🧰 Setup Instructions
 
-1. **Clone the Repo**
-   ```bash
-   git clone https://github.com/yourusername/your-assistant-repo.git
-   cd your-assistant-repo
